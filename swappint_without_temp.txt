@@ -1,0 +1,21 @@
+package JavaTutorial;
+
+public class JavaTutorial_swap_without_temp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int firstnumber=1;
+		int secondnumber=2;
+		int thirdnumber=3;
+		
+		System.out.println("Before Swapping");
+		System.out.println("firstnumber: " + firstnumber + " secondnumber: " + secondnumber +" thirdnumber: "+ thirdnumber +"");
+		
+		System.out.println("After Swapping");
+		System.out.println("firstnumber: " + secondnumber + " secondnumber: " + thirdnumber +" thirdnumber: "+ firstnumber +"");
+		
+	}
+
+}
